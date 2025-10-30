@@ -1,6 +1,6 @@
 # LLM Projects using Open-Source APIs
 
-Welcome to my **LLM Projects Repository** — a space where I experiment with and build exciting applications using **Large Language Models** powered by **open-source APIs**.  
+Welcome to my LLM Projects Repository — a space where I experiment with and build exciting applications using **Large Language Models** powered by open-source APIs.  
 
 Each project explores a different aspect of natural language understanding, including:
 - 💬 Conversational AI  
